@@ -8,4 +8,4 @@
 ## 2018-07-05
 Hello! Hello!
 #class
-#function
+#project
