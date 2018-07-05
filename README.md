@@ -1,11 +1,3 @@
 # Today I learned
-## 2018-07-05
-
-# Python
-# CSS
-# HTML
-
-## 2018-07-05
-Hello! Hello!
-#class
-#project
+## 2018-07-05사
+# git / github 사용법 공부하기
